@@ -1,0 +1,4 @@
+arrival,issue,pick,station,sku,units,action
+4,W3,K31,A-01,PEN,8,collected
+4,W3,K31,B-02,TAPE,2,collected
+6,W3,K31,A-01,PEN,2,returned

@@ -1,0 +1,10 @@
+arrival,po_line,revision,request,requested_units,state,forwarder
+2,P180-1,1,R17,12,confirmed,采购甲
+2,P180-2,1,R17,6,confirmed,采购甲
+2,P180-2,1,R17,6,confirmed,采购乙
+3,P193-1,1,R18,4,confirmed,采购乙
+3,P193-1,1,R20,5,confirmed,采购乙
+3,P201-1,1,R19,6,confirmed,采购甲
+5,P180-2,2,R17,6,canceled,采购甲
+5,P500-1,1,R20,5,confirmed,采购甲
+5,P500-1,1,R22,5,confirmed,采购乙

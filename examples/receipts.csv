@@ -1,0 +1,7 @@
+arrival,receipt,revision,po_line,station,sku,units,state
+3,G711,1,P180-1,A-01,PEN,12,available
+3,G712,1,P201-1,B-02,TAPE,6,available
+4,G713,1,P193-1,A-01,PEN,4,refused
+5,G711,2,P180-1,A-01,PEN,7,available
+5,G711-R,1,P180-1,A-01,PEN,5,hold
+6,G714,1,P193-1,A-01,PEN,9,available

@@ -1,0 +1,6 @@
+arrival,request,station,sku,units,state
+1,R17,A-01,PEN,18,sent
+1,R18,A-01,PEN,4,timeout
+1,R19,B-02,TAPE,6,sent
+2,R20,A-01,PEN,5,sent
+3,R21,C-01,BOX,3,sent

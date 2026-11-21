@@ -1,0 +1,3 @@
+arrival,transfer,request,origin,destination,sku,units,state
+3,T03,R18,D-04,A-01,PEN,2,in_transit
+6,T03,R18,D-04,A-01,PEN,2,available
