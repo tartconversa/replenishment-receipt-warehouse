@@ -1,0 +1,5 @@
+shift_id,pick,station,sku,demanded_units,promised_units,evidence_kind,evidence_id,status,reason
+S3,K34,A-01,PEN,1,1,receipt,G711,released,
+S3,K34,A-01,PEN,2,2,receipt,G714,released,
+S3,K33,A-01,PEN,4,4,receipt,G714,released,
+S3,K32,B-02,TAPE,4,4,receipt,G712,released,

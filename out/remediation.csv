@@ -1,0 +1,3 @@
+issue,pick,station,sku,shift_id,committed_units,held_units,still_backed_units,short_units,remediable_free_units,evidence
+W3,K31,A-01,PEN,S1,8,6,6,0,0,"receipt:G711=capacity7,promised_other1"
+W3,K31,B-02,TAPE,S1,2,2,2,0,0,"receipt:G712=capacity6,promised_other4"

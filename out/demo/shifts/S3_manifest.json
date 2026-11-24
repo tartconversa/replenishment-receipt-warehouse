@@ -1,0 +1,24 @@
+{
+  "shift_id": "S3",
+  "as_of": "2026-10-05T09:45:00Z",
+  "through_arrival": 6,
+  "generated_at": "2026-11-24T08:17:10Z",
+  "released_picks": [
+    "K32",
+    "K33",
+    "K34"
+  ],
+  "superseded_promise_ids": [],
+  "files": {
+    "pick_handoff": "S3_pick_handoff.csv",
+    "replenish_handoff": "S3_replenish_handoff.jsonl"
+  },
+  "source_max_arrivals": {
+    "raw_request": 3,
+    "raw_purchase": 5,
+    "raw_receipt": 6,
+    "raw_transfer": 6,
+    "raw_pick": 5,
+    "raw_pick_receipt": 6
+  }
+}

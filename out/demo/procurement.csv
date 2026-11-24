@@ -1,0 +1,6 @@
+request,station,sku,target_units,connector_state,confirmed_units,canceled_units,refused_units,qualified_received,backordered,confirmed_transfer_units,in_flight_unknown,pending_verification,reorderable_canceled,reorderable_refused,reorderable_units,po_lines,notes
+R17,A-01,PEN,18,sent,12,6,0,7,5,0,0,0,6,0,6,P180-1|P180-2,
+R18,A-01,PEN,4,timeout,4,0,4,4,0,2,0,0,0,0,0,P193-1,
+R19,B-02,TAPE,6,sent,6,0,0,6,0,0,0,0,0,0,0,P201-1,
+R20,A-01,PEN,5,sent,5,0,0,5,0,0,0,0,0,0,0,P193-1,
+R21,C-01,BOX,3,sent,0,0,0,0,0,0,3,3,0,0,0,,

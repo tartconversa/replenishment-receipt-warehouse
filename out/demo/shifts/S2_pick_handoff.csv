@@ -1,0 +1,4 @@
+shift_id,pick,station,sku,demanded_units,promised_units,evidence_kind,evidence_id,status,reason
+S2,K33,A-01,PEN,4,0,,,short,货位 A-01 的 PEN 可承诺量不足
+S2,K34,A-01,PEN,3,0,,,short,货位 A-01 的 PEN 可承诺量不足
+S2,K32,B-02,TAPE,4,2,,,short,货位 B-02 的 TAPE 可承诺量不足
